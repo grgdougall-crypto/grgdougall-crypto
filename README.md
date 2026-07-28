@@ -1,3 +1,4 @@
+![GitHub Banner](github-banner.png)
 
 
 Building practical systems at the intersection of cybersecurity, infrastructure, automation, and AI-assisted operational workflows.
