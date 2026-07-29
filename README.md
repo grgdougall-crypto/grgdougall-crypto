@@ -6,17 +6,17 @@
 
 I'm passionate about building practical solutions that combine cybersecurity, infrastructure, automation, AI-assisted workflows, and secure system design.
 
-My portfolio showcases hands-on projects that demonstrate real-world systems administration, cybersecurity, automation, and full-stack application development.
+My portfolio showcases hands-on projects demonstrating systems administration, cybersecurity, software development, and operational automation through real-world implementations.
 
 ---
 
-# ⭐ Featured Projects
+# 🌐 Live Applications
 
 ## 🤖 AI Operations Assistant
 
 A full-stack operational management platform designed to streamline incident tracking, executive reporting, and AI-assisted decision making.
 
-### Features
+### Highlights
 
 - AI-generated remediation recommendations
 - Executive markdown reporting
@@ -24,7 +24,7 @@ A full-stack operational management platform designed to streamline incident tra
 - SLA monitoring
 - Audit logging
 - Responsive analytics dashboard
-- Live cloud deployment
+- Cloud deployment on Render
 
 **Technology**
 
@@ -42,17 +42,17 @@ A full-stack operational management platform designed to streamline incident tra
 
 ## 🛡️ Project IronGate
 
-Interactive cybersecurity awareness platform that teaches cybersecurity concepts through immersive warehouse-based operational scenarios.
+An interactive cybersecurity awareness platform that teaches security concepts through immersive warehouse-based operational scenarios.
 
-### Features
+### Highlights
 
 - Personalized learner experience
-- Interactive operational scenarios
-- Video-based cybersecurity training
+- Interactive video-based training
+- Scenario-driven learning
 - Progress tracking
 - Printable completion certificate
 - Responsive web design
-- Live GitHub Pages deployment
+- GitHub Pages deployment
 
 **Technology**
 
@@ -68,82 +68,65 @@ Interactive cybersecurity awareness platform that teaches cybersecurity concepts
 
 ---
 
-## 🖥️ Windows Server Active Directory Lab
+# 🖥️ Infrastructure & Systems
 
-Enterprise Windows Server lab demonstrating practical systems administration and infrastructure management.
+## Windows Server Active Directory Lab
 
-### Includes
+Enterprise Windows Server 2022 home lab demonstrating Active Directory administration, Group Policy, DNS, DHCP, NTFS permissions, organizational unit design, and domain management through hands-on infrastructure projects.
 
-- Active Directory
+### Highlights
+
+- Active Directory Domain Services
 - DNS
 - DHCP
 - Group Policy
 - Organizational Unit design
 - Department file shares
 - NTFS permissions
-- User and computer management
+- User and computer administration
+- Home enterprise lab environment
 
 **Technology**
 
-`Windows Server 2022` `Hyper-V` `PowerShell`
+`Windows Server 2022`
+`Hyper-V`
+`PowerShell`
 
 **Repository**
 
-🔗 **[Windows Server Active Directory Lab](https://github.com/grgdougall-crypto/windows-server-active-directory-lab)**
+🔗 **[Windows Server AD Lab](https://github.com/grgdougall-crypto/windows-server-ad-lab)**
 
 ---
 
-## 🎫 osTicket Helpdesk Lab
+## osTicket Helpdesk Lab
 
-Self-hosted enterprise helpdesk environment demonstrating IT service management workflows.
+Self-hosted enterprise helpdesk environment demonstrating IT service management and ticket lifecycle workflows.
 
-### Includes
+### Highlights
 
 - Ticket lifecycle management
-- Department routing
 - SLA plans
+- Department routing
 - Agent role management
 - Help topics
-- Customer portal configuration
+- Customer portal
+- Helpdesk administration
 
 **Technology**
 
-`Ubuntu Server` `Apache` `MariaDB` `PHP` `osTicket`
+`Ubuntu Server`
+`Apache`
+`MariaDB`
+`PHP`
+`osTicket`
 
 **Repository**
 
-🔗 **[osTicket Helpdesk Lab](https://github.com/grgdougall-crypto/osticket-helpdesk-lab)**
+🔗 **[osTicket Helpdesk Lab](REPLACE_WITH_YOUR_OSTICKET_REPOSITORY_URL)**
 
 ---
 
-## 🔒 Security Assessment & Remediation
-
-Operational cybersecurity assessment project focused on identifying organizational risk, assessing vulnerabilities, and prioritizing remediation activities.
-
-### Includes
-
-- Asset identification
-- Threat analysis
-- Vulnerability assessment
-- Risk prioritization
-- Security governance
-- Remediation planning
-
-**Technology**
-
-`NIST Cybersecurity Framework`
-`Risk Assessment`
-`Security Controls`
-`Risk Register`
-`Threat Modeling`
-
-**Repository**
-
-🔗 **[Security Assessment & Remediation](https://github.com/grgdougall-crypto/security-assessment-remediation)**
-
----
-
-# 🛠️ Technologies
+# 🛠️ Technical Skills
 
 ### Infrastructure
 
@@ -183,13 +166,13 @@ Operational cybersecurity assessment project focused on identifying organization
 
 ---
 
-# 🚧 Currently Building
+# 🚀 Currently Building
 
-- Expanding my AI Operations Assistant
-- Growing my Active Directory home lab
-- Developing cybersecurity automation tools
+- Expanding AI Operations Assistant
+- Enhancing my Active Directory home lab
+- Developing Python security automation tools
 - Building security monitoring and analysis projects
-- Advancing my Python and PowerShell automation skills
+- Growing my PowerShell automation skills
 
 ---
 
