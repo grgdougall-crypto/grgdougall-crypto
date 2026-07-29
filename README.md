@@ -2,29 +2,17 @@
 
 # Hi, I'm Greg Dougall 👋
 
-Cybersecurity student and IT professional building practical solutions that combine infrastructure, automation, AI-assisted workflows, and secure system design.
+Cybersecurity student and IT professional passionate about building practical solutions that combine infrastructure, automation, AI-assisted workflows, and secure system design.
 
-My goal is to create portfolio-quality projects that demonstrate real-world cybersecurity, systems administration, automation, and software development skills.
-
----
-
-# Current Focus
-
-- Cybersecurity Operations
-- Infrastructure Administration
-- Active Directory & Windows Server
-- Python & Flask Development
-- AI-Assisted Operational Workflows
-- Linux Systems Administration
-- Automation & Operational Analytics
+My portfolio focuses on hands-on projects that demonstrate real-world cybersecurity, systems administration, and software development skills.
 
 ---
 
-# Featured Projects
+# ⭐ Featured Projects
 
 ## 🤖 AI Operations Assistant
 
-A full-stack operational management platform designed to streamline incident tracking, executive reporting, and AI-assisted operational decision making.
+A full-stack operational management platform designed to streamline incident tracking, executive reporting, and AI-assisted decision making.
 
 ### Features
 
@@ -36,25 +24,23 @@ A full-stack operational management platform designed to streamline incident tra
 - Responsive analytics dashboard
 - Live cloud deployment
 
-### Technology
+**Technology**
 
-`Python` `Flask` `SQLite` `Chart.js` `Bootstrap` `HTML` `CSS`
+`Python` `Flask` `SQLite` `Chart.js` `Bootstrap` `HTML5` `CSS3`
 
-### Repository
+**Repository**
 
-https://github.com/grgdougall-crypto/ai-operations-assistant
+🔗 **[AI Operations Assistant](https://github.com/grgdougall-crypto/ai-operations-assistant)**
 
-### Live Demo
+**Live Demo**
 
-https://ai-operations-assistant-5o3p.onrender.com
+🌐 **[Launch Live Application](https://ai-operations-assistant-5o3p.onrender.com)**
 
 ---
 
 ## 🛡️ Project IronGate
 
-Interactive cybersecurity awareness platform that teaches cybersecurity concepts using immersive warehouse-based operational scenarios.
-
-Designed to deliver engaging employee awareness training through realistic incident simulations and interactive learning experiences.
+Interactive cybersecurity awareness platform that teaches cybersecurity concepts through immersive warehouse-based operational scenarios.
 
 ### Features
 
@@ -66,27 +52,23 @@ Designed to deliver engaging employee awareness training through realistic incid
 - Responsive web design
 - Live GitHub Pages deployment
 
-### Technology
+**Technology**
 
-`HTML5`
-`CSS3`
-`JavaScript`
-`GitHub Pages`
-`DaVinci Resolve`
+`HTML5` `CSS3` `JavaScript` `GitHub Pages` `DaVinci Resolve`
 
-### Repository
+**Repository**
 
-https://github.com/grgdougall-crypto/project-irongate
+🔗 **[Project IronGate](https://github.com/grgdougall-crypto/project-irongate)**
 
-### Live Demo
+**Live Demo**
 
-https://grgdougall-crypto.github.io/project-irongate/
+🌐 **[Launch Live Demo](https://grgdougall-crypto.github.io/project-irongate/)**
 
 ---
 
 ## 🖥️ Windows Server Active Directory Lab
 
-Enterprise Windows Server lab built to demonstrate practical systems administration and infrastructure management.
+Enterprise Windows Server lab demonstrating practical systems administration and infrastructure management.
 
 ### Includes
 
@@ -99,11 +81,9 @@ Enterprise Windows Server lab built to demonstrate practical systems administrat
 - NTFS Permissions
 - User & Computer Management
 
-### Technology
+**Technology**
 
-`Windows Server 2022`
-`Hyper-V`
-`PowerShell`
+`Windows Server 2022` `Hyper-V` `PowerShell`
 
 ---
 
@@ -120,19 +100,15 @@ Self-hosted enterprise helpdesk environment demonstrating IT service management 
 - Help topics
 - Customer portal
 
-### Technology
+**Technology**
 
-`Ubuntu Server`
-`Apache`
-`MariaDB`
-`PHP`
-`osTicket`
+`Ubuntu Server` `Apache` `MariaDB` `PHP` `osTicket`
 
 ---
 
 ## 🔒 Security Assessment & Remediation
 
-Operational cybersecurity assessment project focused on identifying risk and prioritizing remediation activities.
+Operational cybersecurity assessment project focused on identifying risk, assessing vulnerabilities, and prioritizing remediation activities.
 
 ### Includes
 
@@ -145,9 +121,9 @@ Operational cybersecurity assessment project focused on identifying risk and pri
 
 ---
 
-# Technologies
+# 🛠️ Technologies
 
-## Infrastructure
+### Infrastructure
 
 `Windows Server`
 `Active Directory`
@@ -156,7 +132,7 @@ Operational cybersecurity assessment project focused on identifying risk and pri
 `Hyper-V`
 `Linux`
 
-## Development
+### Development
 
 `Python`
 `Flask`
@@ -167,7 +143,7 @@ Operational cybersecurity assessment project focused on identifying risk and pri
 `Git`
 `GitHub`
 
-## Cybersecurity
+### Cybersecurity
 
 `Risk Assessment`
 `Security Operations`
@@ -176,86 +152,55 @@ Operational cybersecurity assessment project focused on identifying risk and pri
 `Audit Logging`
 `Workflow Automation`
 
-## AI & Automation
+### AI & Automation
 
 `OpenAI API`
 `Gemini API`
 `AI-Assisted Reporting`
-`Operational Automation`
+`Operational Workflow Automation`
 
 ---
 
-# Currently Building
+# 🚧 Currently Building
 
-- Enhancements to AI Operations Assistant
-- Home Active Directory Lab
-- Cybersecurity Automation Tools
-- Security Monitoring Projects
-- Python Security Utilities
-
----
-
-# Current Learning
-
-Currently expanding my skills in:
-
-- Python automation
-- Linux administration
-- Bash scripting
-- Active Directory
-- Security Operations
-- AI-assisted workflow automation
-- Cloud technologies
+- Enhancing AI Operations Assistant
+- Expanding my Active Directory home lab
+- Developing cybersecurity automation tools
+- Building security monitoring and analysis projects
+- Growing my Python and PowerShell automation skills
 
 ---
 
-# Education
+# 🎓 Education
 
 **Tacoma Community College**
 
 Associate of Applied Science (AAS)
 
-Information Systems & Cybersecurity
+**Information Systems & Cybersecurity**
 
-Expected Graduation: 2027
+*Expected Graduation: 2027*
 
 ---
 
-# Certifications
+# 📜 Certifications
 
-Currently pursuing:
+**Currently Pursuing**
 
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
 
-Future goals:
+**Future Goals**
 
-- Microsoft Azure Fundamentals
-- Microsoft Azure Administrator
-- AWS Cloud Practitioner
-
----
-
-# Portfolio Philosophy
-
-I enjoy building projects that combine multiple disciplines rather than focusing on a single technology.
-
-My work emphasizes:
-
-- Cybersecurity
-- Infrastructure
-- Automation
-- AI-assisted workflows
-- Operational analytics
-- Practical problem solving
-
-Every project in this portfolio is designed to strengthen real-world technical skills while documenting my continuous growth as an IT and cybersecurity professional.
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Administrator (AZ-104)
+- AWS Certified Cloud Practitioner
 
 ---
 
-# Connect
+# 📫 Connect
 
 **GitHub**
 
-https://github.com/grgdougall-crypto
+🔗 **https://github.com/grgdougall-crypto**
