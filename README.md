@@ -1,6 +1,7 @@
 ![GitHub Banner](github-banner.png)
 
 # Hi, I'm Greg Dougall 👋
+Cybersecurity | Infrastructure | Python | AI Automation
 
 Cybersecurity student and IT professional passionate about building practical solutions that combine infrastructure, automation, AI-assisted workflows, and secure system design.
 
