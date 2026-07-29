@@ -42,7 +42,7 @@ A full-stack operational management platform designed to streamline incident tra
 
 ## 🛡️ Project IronGate
 
-An interactive cybersecurity awareness platform that teaches security concepts through immersive warehouse-based operational scenarios.
+An interactive cybersecurity awareness platform that teaches cybersecurity concepts through immersive warehouse-based operational scenarios.
 
 ### Highlights
 
@@ -98,9 +98,9 @@ Enterprise Windows Server 2022 home lab demonstrating Active Directory administr
 
 ---
 
-## osTicket Helpdesk Lab
+## 🎫 osTicket Helpdesk Lab
 
-Self-hosted enterprise helpdesk environment demonstrating IT service management and ticket lifecycle workflows.
+Self-hosted enterprise helpdesk environment demonstrating IT service management and helpdesk administration.
 
 ### Highlights
 
@@ -122,7 +122,7 @@ Self-hosted enterprise helpdesk environment demonstrating IT service management 
 
 **Repository**
 
-🔗 **[osTicket Helpdesk Lab](REPLACE_WITH_YOUR_OSTICKET_REPOSITORY_URL)**
+🔗 **[osTicket Helpdesk Lab](https://github.com/grgdougall-crypto/osTicket-Helpdesk-Lab)**
 
 ---
 
