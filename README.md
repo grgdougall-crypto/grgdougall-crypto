@@ -1,11 +1,12 @@
 ![GitHub Banner](github-banner.png)
 
 # Hi, I'm Greg Dougall 👋
-Cybersecurity | Infrastructure | Python | AI Automation
 
-Cybersecurity student and IT professional passionate about building practical solutions that combine infrastructure, automation, AI-assisted workflows, and secure system design.
+**Cybersecurity Student | IT Professional | Developer**
 
-My portfolio focuses on hands-on projects that demonstrate real-world cybersecurity, systems administration, and software development skills.
+I'm passionate about building practical solutions that combine cybersecurity, infrastructure, automation, AI-assisted workflows, and secure system design.
+
+My portfolio showcases hands-on projects that demonstrate real-world systems administration, cybersecurity, automation, and full-stack application development.
 
 ---
 
@@ -77,14 +78,18 @@ Enterprise Windows Server lab demonstrating practical systems administration and
 - DNS
 - DHCP
 - Group Policy
-- Organizational Unit Design
-- Department File Shares
-- NTFS Permissions
-- User & Computer Management
+- Organizational Unit design
+- Department file shares
+- NTFS permissions
+- User and computer management
 
 **Technology**
 
 `Windows Server 2022` `Hyper-V` `PowerShell`
+
+**Repository**
+
+🔗 **[Windows Server Active Directory Lab](https://github.com/grgdougall-crypto/windows-server-active-directory-lab)**
 
 ---
 
@@ -97,19 +102,23 @@ Self-hosted enterprise helpdesk environment demonstrating IT service management 
 - Ticket lifecycle management
 - Department routing
 - SLA plans
-- Agent roles
+- Agent role management
 - Help topics
-- Customer portal
+- Customer portal configuration
 
 **Technology**
 
 `Ubuntu Server` `Apache` `MariaDB` `PHP` `osTicket`
 
+**Repository**
+
+🔗 **[osTicket Helpdesk Lab](https://github.com/grgdougall-crypto/osticket-helpdesk-lab)**
+
 ---
 
 ## 🔒 Security Assessment & Remediation
 
-Operational cybersecurity assessment project focused on identifying risk, assessing vulnerabilities, and prioritizing remediation activities.
+Operational cybersecurity assessment project focused on identifying organizational risk, assessing vulnerabilities, and prioritizing remediation activities.
 
 ### Includes
 
@@ -119,6 +128,18 @@ Operational cybersecurity assessment project focused on identifying risk, assess
 - Risk prioritization
 - Security governance
 - Remediation planning
+
+**Technology**
+
+`NIST Cybersecurity Framework`
+`Risk Assessment`
+`Security Controls`
+`Risk Register`
+`Threat Modeling`
+
+**Repository**
+
+🔗 **[Security Assessment & Remediation](https://github.com/grgdougall-crypto/security-assessment-remediation)**
 
 ---
 
@@ -164,11 +185,11 @@ Operational cybersecurity assessment project focused on identifying risk, assess
 
 # 🚧 Currently Building
 
-- Enhancing AI Operations Assistant
-- Expanding my Active Directory home lab
+- Expanding my AI Operations Assistant
+- Growing my Active Directory home lab
 - Developing cybersecurity automation tools
 - Building security monitoring and analysis projects
-- Growing my Python and PowerShell automation skills
+- Advancing my Python and PowerShell automation skills
 
 ---
 
@@ -186,13 +207,13 @@ Associate of Applied Science (AAS)
 
 # 📜 Certifications
 
-**Currently Pursuing**
+### Currently Pursuing
 
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
 
-**Future Goals**
+### Future Goals
 
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure Administrator (AZ-104)
