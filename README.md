@@ -2,7 +2,7 @@
 
 # Hi, I'm Greg Dougall 👋
 
-**Cybersecurity Student | IT Professional | Developer**
+**Cybersecurity Student | IT Professional | Python Developer**
 
 I'm passionate about building practical solutions that combine cybersecurity, infrastructure, automation, AI-assisted workflows, and secure system design.
 
