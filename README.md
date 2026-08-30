@@ -174,12 +174,15 @@ Self-hosted enterprise helpdesk environment demonstrating IT service management 
 
 `Python`
 `Flask`
+`PostgreSQL`
 `SQLite`
 `HTML5`
 `CSS3`
 `JavaScript`
 `Git`
 `GitHub`
+`Railway`
+`Cloudflare R2`
 
 ### Cybersecurity
 
@@ -201,11 +204,11 @@ Self-hosted enterprise helpdesk environment demonstrating IT service management 
 
 # 🚀 Currently Building
 
-- Expanding AI Operations Assistant
-- Enhancing my Active Directory home lab
-- Developing Python security automation tools
-- Building security monitoring and analysis projects
-- Growing my PowerShell automation skills
+- Expanding Gnojo, an AI-assisted IT support and knowledge operations platform
+- Continuing development and production hardening of Project SmartFix
+- Expanding AI-assisted operational workflow projects
+- Enhancing my Active Directory and infrastructure lab work
+- Growing my Python and PowerShell automation skills
 
 ---
 
