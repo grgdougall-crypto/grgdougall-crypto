@@ -70,6 +70,37 @@ An interactive cybersecurity awareness platform that teaches cybersecurity conce
 
 ---
 
+## 🛠️ Project SmartFix
+
+A full-stack handyman business platform that combines a polished public website with a private owner workspace for managing customer requests, AI-assisted project review, scheduling, invoicing, and website content.
+
+### Highlights
+
+- Public estimate intake with customer photo uploads
+- AI-assisted Smart Project Summary
+- Owner-only Photo Triage
+- Request lifecycle and scheduling workflows
+- Draft and finalized invoicing
+- PDF invoice generation
+- Customer email delivery
+- Owner-managed public Project Gallery
+- PostgreSQL-backed Railway deployment
+- Cloudflare R2 media storage
+
+**Technology**
+
+`Python` `Flask` `PostgreSQL` `Railway` `Cloudflare R2` `OpenAI API` `Resend`
+
+**Repository**
+
+🔗 **[Project SmartFix](https://github.com/grgdougall-crypto/Project-SmartFix)**
+
+**Live Demo**
+
+🌐 **[Launch Live Application](https://shimmering-hope-staging.up.railway.app)**
+
+---
+
 # 🖥️ Infrastructure & Systems
 
 ## Windows Server Active Directory Lab
